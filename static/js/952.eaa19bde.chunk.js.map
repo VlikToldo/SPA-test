@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/952.eaa19bde.chunk.js","mappings":"0JAMA,UANkB,WACd,OAAO,sCAGV,C","sources":["page/RatesPage/RatesPage.jsx"],"sourcesContent":["const RatesPage = () => {\n    return <div>\n        RatesPage\n    </div>\n}\n\nexport default RatesPage;"],"names":[],"sourceRoot":""}
